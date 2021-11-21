@@ -1,5 +1,7 @@
 package main
 
+// this is a comment
+
 import "fmt"
 
 func main() {
